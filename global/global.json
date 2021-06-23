@@ -1,8 +1,9 @@
 {
 	"test": "GLOBAL STRING FROM GLOBAL.JSON!!!!!",
 	"name": "Nik's Fashion Warehouse",
-	"primary_color": "#003a70",
-	"secondary_color": "#B5C428",
+	"background_color": "#00022E",
+	"primary_color": "#FF073A",
+	"secondary_color": "#02066F",
     "photoGallery": [
 		{
 			"image": {
